@@ -6,3 +6,4 @@ function* generChar() {
     yield 'o'
 }
 const iter=generChar();
+console.log();
